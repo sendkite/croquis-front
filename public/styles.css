@@ -1,0 +1,10 @@
+* {
+    position: relative;
+    width: 1280px;
+    height: 832px;
+    background-color: #FFFF;
+}
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
